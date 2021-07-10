@@ -51,12 +51,12 @@ p {
 }
 
 .img-container {
-    width: 50%;
+    width: 46%;
     height: 280px;
     background-image: url("../images/drawers.jpg");
     background-size: cover;
     background-position: left;
-    filter: opacity(90%) grayscale(20%);
+    filter: grayscale(15%);
     background-repeat: no-repeat;
     border-radius: 10px 0 0 10px;
 }
